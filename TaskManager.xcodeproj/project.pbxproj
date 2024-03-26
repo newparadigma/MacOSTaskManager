@@ -34,6 +34,7 @@
 		903314A42BB1C6EF00642F3A /* StaticTaskListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StaticTaskListView.swift; sourceTree = "<group>"; };
 		90DD891A2BB3083300CFF16A /* TaskListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskListView.swift; sourceTree = "<group>"; };
 		90DD891C2BB30ADA00CFF16A /* TaskView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskView.swift; sourceTree = "<group>"; };
+		90DD891E2BB348B400CFF16A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,6 +51,7 @@
 		900224432BB1B82C006A0BA1 = {
 			isa = PBXGroup;
 			children = (
+				90DD891E2BB348B400CFF16A /* README.md */,
 				9002244E2BB1B82C006A0BA1 /* TaskManager */,
 				9002244D2BB1B82C006A0BA1 /* Products */,
 			);
